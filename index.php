@@ -3,7 +3,7 @@
 
 <head>
     <title>Reloj Digital</title>
-    <!-- stilos del reloj -->
+    <!-- estilos del reloj -->
     <style>
         body {
             font-family: Arial, sans-serif;
